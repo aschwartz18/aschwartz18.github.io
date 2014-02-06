@@ -1,0 +1,17 @@
+body {
+	text-align: left;
+	font-family: Helvetica;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 13px;
+}
+
+h1 {
+	font-family: "Courier New";
+	font-size: 25px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 18px;
+}
